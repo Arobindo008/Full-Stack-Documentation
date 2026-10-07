@@ -1,2 +1,2 @@
 # Full-Stack-Documentation
-Personal note for full stack tutorial.
+Personal notes for full stack tutorial.
